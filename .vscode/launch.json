@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "program": "${file}",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "args": [
+                "WIN-NVU319DE1C7@80/randomfile", "CA", 
+                "-u", "Attacker", 
+                "-p", "Normal!123"
+            ]
+        }
+    ]
+}
